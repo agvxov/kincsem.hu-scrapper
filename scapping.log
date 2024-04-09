@@ -1,0 +1,19 @@
+[33;1m# Iterating '1996'.[0m
+[33mLoading 'https://mla.kincsempark.hu/racing-days/gallop/1996'...[0m
+[32mLoaded 'https://mla.kincsempark.hu/racing-days/gallop/1996'![0m
+[33mLoading 'https://mla.kincsempark.hu/results/gallop/1996-12-07/'...[0m
+[32mLoaded 'https://mla.kincsempark.hu/results/gallop/1996-12-07/'![0m
+[36mSaving file 'out/1996-12-07.json'.[0m
+[33mLoading 'https://mla.kincsempark.hu/results/gallop/1996-11-24/'...[0m
+[32mLoaded 'https://mla.kincsempark.hu/results/gallop/1996-11-24/'![0m
+[36mSaving file 'out/1996-11-24.json'.[0m
+[33mLoading 'https://mla.kincsempark.hu/results/gallop/1996-11-17/'...[0m
+[32mLoaded 'https://mla.kincsempark.hu/results/gallop/1996-11-17/'![0m
+[36mSaving file 'out/1996-11-17.json'.[0m
+[33mLoading 'https://mla.kincsempark.hu/results/gallop/1996-11-10/'...[0m
+[32mLoaded 'https://mla.kincsempark.hu/results/gallop/1996-11-10/'![0m
+[36mSaving file 'out/1996-11-10.json'.[0m
+[33mLoading 'https://mla.kincsempark.hu/results/gallop/1996-11-03/'...[0m
+[32mLoaded 'https://mla.kincsempark.hu/results/gallop/1996-11-03/'![0m
+[36mSaving file 'out/1996-11-03.json'.[0m
+[33mLoading 'https://mla.kincsempark.hu/results/gallop/1996-10-27/'...[0m
