@@ -2,3 +2,4 @@ out/*
 out.bak/
 venv/
 typescript
+*.log
